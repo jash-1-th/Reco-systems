@@ -1,5 +1,5 @@
 # Reco-systems
-##applications of ML/AI
+applications of ML/AI
 
 For whatever we buy or travel to a new place, the recommendation system is inescapable. Restaurants also
 require recommendation systems in order to attract more customers from the management side and to allow consumers
